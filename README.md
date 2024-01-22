@@ -6,7 +6,7 @@ I am a Back-End Developer
 ---------------------------
 
 Hi, my name is Genadi, and I am a Java developer. I'm interested in back-end development. 
-I like to learn new things. Experience with Java, Spring Boot, JPA/Hibernate, JUnit, REST API, PostgresSQL, Docker & Kubernetes, Apache Kafka, Git, MongoDB. Some experience with AWS services. 
+I like to learn new things. Experience with Java, Spring Boot, JPA/Hibernate, JUnit, REST API, PostgresSQL, Docker & Kubernetes, Apache Kafka, Git. Some experience with AWS services. 
 
 * ✉️  You can contact me at [genadimumladze44@gmail.com](mailto:genadimumladze44@gmail.com)
 * 🤝  I'm open to collaborating on Intersting Projects
@@ -14,8 +14,14 @@ I like to learn new things. Experience with Java, Spring Boot, JPA/Hibernate, JU
 ### Skills
 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="36"   alt="Java" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"   height="36" alt="Spring Boot" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg"   height="40" alt="Spring Boot" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"   height="40" alt="Spring Boot" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"   height="40" alt="Spring Boot" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"   height="40" alt="Spring Boot" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"   height="40" alt="Spring Boot" /></a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"   height="40" alt="Spring Boot" /></a> 
 </p>
 
 
