@@ -12,7 +12,7 @@ I like to learn new things. Experience with Java, Spring Boot, JPA/Hibernate, JU
 
 ### Skills
 o	Java 17 </br>
-o	Spring Boot ecosystem
+o	Spring Boot </br>
 o	OOP, clean code, design patterns and SOLID principles, DRY, KISS</br>
 o	Database migration tools: Flyway, Mongock</br>
 o	JPA/Hibernate ORM</br>
