@@ -16,7 +16,7 @@ o	Spring Boot </br>
 o	OOP, clean code, design patterns and SOLID principles, DRY, KISS</br>
 o	Database migration tools: Flyway, Mongock</br>
 o	JPA/Hibernate ORM</br>
-o	Databases: MS SQL, PostgreSQL, MongoDB
+o	Databases: MS SQL, PostgreSQL, MongoDB</br>
 o	RESTful API & testing and documentation tools (Swagger, Postman)</br>
 o	Spring Security: authentication/authorization, OAuth2, JWT</br>
 o	Testing: JUnit, Mockito</br>
