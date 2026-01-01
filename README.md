@@ -34,8 +34,8 @@ o	Azure</br>
 <a href="https://www.linkedin.com/in/genadi-mumladze-4aa492170/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
 
-### Badges
 <!--
+### Badges
 **genadigeno/genadigeno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
