@@ -2,7 +2,7 @@
 
 ---------------------------
 
-Java Developer
+Senior Java Developer
 ---------------------------
 Hi, my name is Genadi, and I am a Java developer with 6 years of experience. I'm interested in back-end development. 
 I like to learn new things. Experience with Java, Spring Boot, JPA/Hibernate, JUnit, REST API, PostgresSQL, Docker & Kubernetes, Apache Kafka, Git. Some experience with AWS services. 
