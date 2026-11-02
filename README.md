@@ -8,7 +8,7 @@ Hi, my name is Genadi, and I am senior Java developer with 6+ years of experienc
 I like to learn new things. Experience with Java, Spring Boot, JPA/Hibernate, JUnit, REST API, PostgresSQL, Docker & Kubernetes, Apache Kafka, Git. Some experience with AWS services. 
 
 * ✉️  You can contact me at [genadimumladze44@gmail.com](mailto:genadimumladze44@gmail.com)
-* 🤝  I'm open to collaborating on Intersting Projects
+* 🤝  I'm open to collaborating on intersting projects
 
 ### Skills
 o	Java, Spring Boot </br>
